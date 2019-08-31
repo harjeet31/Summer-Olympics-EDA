@@ -1,32 +1,18 @@
 # Summer-Olympics-EDA
 Summer Olympics - EDA ( Insaid Assignment for Data Exploratory project)
-![Rio-Olympics.jpg](/Summer-Olympics-EDA)<br><br>
+![Rio-Olympics.jpg](/Rio-Olympics.jpg)<br><br>
 
 ## About the Dataset:
-<p>This automobile dataset consist of data From 1985 Ward's Automotive Yearbook. Here are the sources:</p>
+<p>This dataset consists of Summer-Olympics data from year 1896 till 2012 with Year,City,Country,Discipline,events,medsl information. </p>
 
 <ul>
-    <li>1985 Model Import Car and Truck Specifications, 1985 Ward's Automotive Yearbook.</li>
-    <li>Personal Auto Manuals, Insurance Services Office, 160 Water Street, New York, NY 10038.</li>
-    <li>Insurance Collision Report, Insurance Institute for Highway Safety, Watergate 600, Washington, DC 20037.</li>
+    <li>•This dataset consists of information about Country,Year,Event,Discipline and Medal won by athlete in different Olympics games.</li>
+    <li>•It contains around 31165 rows with medal won information about 148 distinct countries in 666 distinct events in the Olympics Games history.	</li>
+    <li>•The dataset comprises of 31165 observations of 9 columns. Below is a table showing names of all the columns and their description.</li>
+	<li>•Summer Olympics dataset has 31165 rows spread in 9 columns</li>
 </ul>
-
-<p>This data set consists of three types of entities: </p>
-<ol>
-    <li>the specification of an auto in terms of various characteristics,</li>
-    <li>its assigned insurance risk rating,</li>
-    <li>its normalized losses in use as compared to other cars.</li>
-</ol>
-
 ## EDA Objective:
-<p>This study focus to find some meaningfull insight from Automobile dataset. Here are some problem statements below:</p>
-<ol>
-    <li>Do the Body Size, Style and Engine Specification determine the car price?</li>
-    <li>Which type of cars are better in terms of mileage?</li>
-    <li>Which are highest selling cars based on brand, body style and price slab?</li>
-	<li>Which are highest normalized loss reported cars based on body style and no of doors?</li>
-	<li>Does body size influence symbolling?</li>
-</ol>
+<p>This data analysis for Summer Olympics games dataset and figure out interesting statistics and insight about Olympics games being held till year 2012 :</p>
 
 ## Help URL:
 1. Dataset source: https://archive.ics.uci.edu/ml/datasets/automobile
