@@ -15,5 +15,4 @@ Summer Olympics - EDA ( Insaid Assignment for Data Exploratory project)
 <p>This data analysis for Summer Olympics games dataset and figure out interesting statistics and insight about Olympics games being held till year 2012 :</p>
 
 ## Help URL:
-1. Dataset source: https://archive.ics.uci.edu/ml/datasets/automobile
-2. Different types of engine: https://www.mechanicalbooster.com/2016/08/different-types-of-engine.html
+
