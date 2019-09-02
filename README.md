@@ -16,3 +16,4 @@ Summer Olympics - EDA ( Insaid Assignment for Data Exploratory project)
 
 ## Help URL:
 
+https://github.com/harjeet31/Summer-Olympics-EDA/blob/master/zoom_0.mp4 
